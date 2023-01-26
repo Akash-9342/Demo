@@ -1,0 +1,75 @@
+2023-01-18 19:30:15,277 [main] INFO Automation_framework1 - Open ecommerce URL
+2023-01-18 19:30:15,326 [main] INFO Automation_framework1 - Enter Email of user
+2023-01-18 19:30:15,499 [main] INFO Automation_framework1 - Enter Password of user
+2023-01-18 21:51:37,797 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-18 21:51:37,843 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-18 21:51:38,019 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-18 21:51:38,160 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 06:25:20,300 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 06:25:20,372 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 06:25:20,554 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 06:25:20,718 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 06:28:05,667 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 06:28:05,715 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 06:28:05,855 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 06:28:06,023 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 06:30:14,199 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 06:30:14,260 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 06:30:14,387 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 06:30:14,524 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 06:30:54,501 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 06:30:54,549 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 06:30:54,719 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 06:30:54,885 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 07:12:33,014 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:12:33,066 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:13:29,004 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:13:29,059 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:16:37,665 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:16:37,738 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:36:08,073 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:36:08,141 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:37:43,093 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:37:43,148 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:41:01,524 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 07:41:01,595 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 07:41:01,803 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 07:41:01,987 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 20:17:12,303 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 20:17:12,364 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 20:17:12,588 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 20:17:12,781 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 21:08:45,749 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 21:08:45,800 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 21:08:45,967 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 21:08:46,129 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-19 21:12:56,829 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-19 21:12:56,880 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-19 21:12:57,055 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-19 21:12:57,235 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-22 19:48:16,698 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-22 19:48:16,784 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-22 19:48:16,948 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-22 19:48:17,125 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-22 19:48:43,005 [main] INFO 30JulyEcommerce - Login Successful
+2023-01-22 19:48:43,011 [main] INFO 30JulyEcommerce - Enter text
+2023-01-22 19:48:43,151 [main] INFO 30JulyEcommerce - Click on search button
+2023-01-22 19:53:56,078 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-22 19:53:56,121 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-22 19:53:56,289 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-22 19:53:56,456 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-22 19:54:12,345 [main] INFO 30JulyEcommerce - Login Successful
+2023-01-22 19:54:12,350 [main] INFO 30JulyEcommerce - Enter text
+2023-01-22 19:54:12,512 [main] INFO 30JulyEcommerce - Click on search button
+2023-01-25 20:58:12,687 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-25 20:58:12,751 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-25 20:58:13,036 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-25 20:58:13,254 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-26 11:43:19,042 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-26 11:43:19,101 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-26 11:43:19,273 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-26 11:43:19,451 [main] INFO 30JulyEcommerce - Click on Login Button
+2023-01-26 11:43:28,359 [main] INFO 30JulyEcommerce - Open ecommerce URL
+2023-01-26 11:43:28,363 [main] INFO 30JulyEcommerce - Enter Email of user
+2023-01-26 11:43:28,537 [main] INFO 30JulyEcommerce - Enter Password of user
+2023-01-26 11:43:28,707 [main] INFO 30JulyEcommerce - Click on Login Button
